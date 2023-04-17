@@ -5,7 +5,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas com experiência em e
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-melo-8a0148268/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmeelog/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=grifths&theme=dark&show_icons=true)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=grifths&theme=transparent&show_icons=true)
 
 ### Technologies I am aware of
 
