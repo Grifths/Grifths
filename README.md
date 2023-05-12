@@ -21,7 +21,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas com experiência em e
 ### Technologies I'm interested in
 
 <div style ="display: inline_block"<br/>
-<img alt="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+<img alt="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)" />
 <img alt="center" src="https://camo.githubusercontent.com/53b1030248fd0f64a5b70e56819acd0c8caadcd302335cbf0e4367a6c1603b65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465" />
 
  </div>
